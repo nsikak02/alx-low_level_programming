@@ -1,20 +1,105 @@
-int _putchar(char c);
-int _islower(int c);
-int _isalpha(int c);
-int _abs(int n);
-int _isupper(int c);
-int _isdigit(int c);
-int _strlen(char *s);
-void _puts(char *s);
-char *_strcpy(char *dest, char *src);
-int _atoi(char *s);
-char *_strcat(char *dest, char *src);
-char *_strncat(char *dest, char *src, int n);
-char *_strncpy(char *dest, char *src, int n);
-int _strcmp(char *s1, char *s2);
-char *_memset(char *s, char b, unsigned int n);
-char *_memcpy(char *dest, char *src, unsigned int n);
-char *_strchr(char *s, char c);
-unsigned int _strspn(char *s, char *accept);
-char *_strpbrk(char *s, char *accept);
-char *_strstr(char *haystack, char *needle);
+!<arch>
+/               1562947432  0     0     0       246       `
+:^
+  ▒&2V!▒'.,▒1▒7Z<~BzHM▒R▒XB]▒b▒h>_isupper_memset_strcat_atoi_isdigit_memcpy_strncat_strchr_strlen_strncpy_islower_puts_strcmp_strspn_isalpha_strpbrk_strstr_abs_strcpy_putchar0-isupper.o/    1562947218  1000  1000  100664  1256      `
+ELF> @@
+▒}▒▒▒▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+\A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame!!aa,0a/5▒J▒E▒       ▒T▒▒                                                            ▒!0-isupper.c_isupper 0-memset.o/     1562947218  1000  1000  100664  1288      `
+ELF>@@@
+      UH▒▒H▒}▒▒U▒E▒▒E▒▒▒U▒H▒E▒H▒▒E▒▒E▒▒E▒;E▒r▒H▒E▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+vA▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame;!{{,0{/5▒J▒E▒       ▒T▒                                                             ▒▒▒
+;0-memset.c_memset 0-strcat.o/     1562947218  1000  1000  100664  1352      `
+ELF>▒@@
+      UH▒▒H▒}▒H▒u▒▒E▒▒E▒▒▒E▒▒E▒Hc▒H▒E▒H▒▒▒▒u▒▒;▒E▒Hc▒H▒E▒HЋU▒Hc▒H▒U▒H▒▒▒▒E▒Hc▒H▒E▒H▒▒▒▒t▒E▒▒E▒▒}▒y▒▒▒H▒E▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+{A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame▒!▒▒,0▒/5▒J▒E0       (T@▒                                                            ▒▒
+▒0-strcat.c_strcat 100-atoi.o/     1562947218  1000  1000  100664  1488      `
+ELF@@
+    UH▒▒H▒}▒▒E▒▒E▒▒E▒▒E▒▒E▒▒{▒}▒t"▒U▒H▒E▒H▒▒</~y▒U▒H▒E▒H▒▒<h▒U▒H▒E▒H▒▒<-u▒]▒U▒H▒E▒H▒▒</~*▒U▒H▒E▒H▒▒<▒}▒t▒U▒▒▒▒▒▒E▒E▒▒E▒▒U▒H▒E▒H▒▒▒▒▒p▒▒▒▒E▒+E▒E▒▒0▒U▒H▒E▒H▒▒▒▒▒0▒E▒E▒E▒▒▒▒▒▒▒▒▒▒▒E▒E▒▒E▒;E▒rȋE▒▒E▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+        A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame     !II,0I/5xJxE▒   ▒T▒▒                                                            ▒▒▒
+        100-atoi.c_atoi 1-isdigit.o/    1562947218  1000  1000  100664  1256      `
+ELF> @@
+▒}▒▒▒▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+\A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame!!aa,0a/5▒J▒E▒       ▒T▒▒                                                            ▒!1-isdigit.c_isdigit 1-memcpy.o/     1562947218  1000  1000  100664  1296      `
+ELF>H@@
+      UH▒▒H▒}▒H▒u▒U▒▒E▒▒▒U▒H▒E▒HЋM▒H▒U▒H▒▒▒▒E▒▒E▒;E▒r▒H▒E▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+~A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frameC!▒▒,0▒/5▒J▒E▒       ▒▒                                                              ▒▒▒
+C1-memcpy.c_memcpy 1-strncat.o/    1562947218  1000  1000  100664  1360      `
+ELF>▒@@
+      UH▒▒H▒}▒H▒u▒U▒▒E▒▒E▒▒▒E▒▒E▒Hc▒H▒E▒H▒▒▒▒u▒▒;▒E▒Hc▒H▒E▒HЋU▒Hc▒H▒U▒H▒▒▒▒E▒Hc▒H▒E▒H▒▒▒▒t▒E▒▒E▒▒E▒;E▒|▒▒▒H▒E▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+▒A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame▒!▒▒,0▒/5▒J▒E8       0TH▒                                                             ▒1-strncat.c_strncat 2-strchr.o/     1562947218  1000  1000  100664  1336      `
+ELF>p@@
+      UH▒▒H▒}▒▒E▒▒E▒▒"▒U▒H▒E▒H▒▒8E▒u
+▒U▒H▒E▒H▒▒8▒E▒▒U▒H▒E▒H▒▒▒▒u͋U▒H▒E▒H▒▒8E▒u
+▒U▒H▒E▒H▒▒▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+iA▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_framen!▒▒,0▒/5▒J▒E        T0▒                                                            ▒▒
+n2-strchr.c_strchr 2-strlen.o/     1562947219  1000  1000  100664  1272      `
+ELF>0@@
+      UH▒▒H▒}▒▒E▒▒▒E▒▒E▒Hc▒H▒E▒H▒▒▒▒u▒E▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+iA▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame.!nn,0n/5▒J▒E▒       ▒T▒▒                                                            ▒▒▒
+.2-strlen.c_strlen 2-strncpy.o/    1562947219  1000  1000  100664  1352      `
+ELF>▒@@
+      UH▒▒H▒}▒H▒u▒U▒▒E▒▒#▒E▒Hc▒H▒E▒HЋU▒Hc▒H▒U▒H▒▒▒▒E▒▒E▒;E▒}*▒E▒Hc▒H▒E▒H▒▒▒▒u▒▒▒E▒Hc▒H▒E▒H▒▒▒E▒▒E▒;E▒|▒H▒E▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+vA▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame{!▒▒,0▒/5▒J▒E0       (T@▒                                                            ▒{2-strncpy.c_strncpy 3-islower.o/    1562947219  1000  1000  100664  1256      `
+ELF> @@
+▒}▒▒▒▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+\A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame!!aa,0a/5▒J▒E▒       ▒T▒▒                                                            ▒!3-islower.c_islower 3-puts.o/       1562947219  1000  1000  100664  1472      `
+ELF>h@@
+        UH▒▒H▒▒ H▒}▒▒E▒▒>▒E▒Hc▒H▒E▒H▒▒▒▒u
+▒
+▒▒$▒E▒Hc▒H▒E▒H▒▒▒▒▒▒▒E▒▒}▒y▒▒▒▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+WA▒C
+.symtab.strtab.shstrtab.rela.text.data.bss.comment.note.GNU-stack.rela.eh_frame @\0                                                                            &▒▒10▒/:▒O▒J▒                                                                  Yh▒                                                                              X▒▒
+\3-puts.c_puts_putchar/ ▒▒▒▒▒▒▒▒K       ▒▒▒▒▒▒▒▒ 3-strcmp.o/     1562947219  1000  1000  100664  1360      `
+ELF>▒@@
+      UH▒▒H▒}▒H▒u▒▒E▒▒E▒▒Y▒E▒Hc▒H▒E▒H▒▒▒▒u▒E▒Hc▒H▒E▒H▒▒▒▒t9▒E▒Hc▒H▒E▒H▒▒▒ЋE▒Hc▒H▒E▒H▒▒▒▒)�ЉE▒E▒▒}▒t▒▒▒▒E▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+~A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame▒!▒▒,0▒/5▒J▒E8       0TH▒                                                             ▒▒
+▒3-strcmp.c_strcmp 3-strspn.o/     1562947219  1000  1000  100664  1360      `
+ELF>▒@@
+      UH▒▒H▒}▒H▒u▒▒E▒▒V▒E▒▒E▒▒+▒U▒H▒E▒H▒▒▒M▒H▒E▒H▒▒8▒u  ▒E▒▒▒E▒▒U▒H▒E▒H▒▒▒▒uă}▒t▒E▒▒U▒H▒E▒H▒▒▒▒u▒▒▒▒E▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+ A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame▒!▒▒,0▒/5▒J▒E8       0TH▒                                                             ▒▒
+▒3-strspn.c_strspn 4-isalpha.o/    1562947219  1000  1000  100664  1272      `
+ELF>0@@
+      UH▒▒}▒}▒`~▒}▒z~
+▒}▒▒▒▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+hA▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame-!mm,0m/5▒J▒E▒       ▒T▒▒                                                            ▒-4-isalpha.c_isalpha 4-strpbrk.o/    1562947219  1000  1000  100664  1344      `
+ELF>x@@
+      UH▒▒H▒}▒H▒u▒▒E▒▒L▒E▒▒.▒U▒H▒E▒H▒▒▒M▒H▒E▒H▒▒8▒u
+▒U▒H▒E▒H▒▒/▒E▒▒U▒H▒E▒H▒▒▒▒u▒E▒▒U▒H▒E▒H▒▒▒▒u▒▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+tA▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_framey!▒▒,0▒/5▒J▒E(        T8▒                                                            ▒y4-strpbrk.c_strpbrk 5-strstr.o/     1562947219  1000  1000  100664  1352      `
+ELF>▒@@
+      UH▒▒H▒}▒H▒u▒▒aH▒E▒H▒E▒H▒E▒H▒E▒▒
+H▒E▒H▒E▒H▒E▒▒▒▒tH▒E▒▒▒▒tH▒E▒▒H▒E▒▒8▒t▒H▒E▒▒▒▒uH▒E▒▒H▒E▒H▒▒H▒E▒H▒E▒▒▒▒u▒▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+|A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame▒!▒▒,0▒/5▒J▒E0       (T@▒                                                            ▒▒
+▒5-strstr.c_strstr 6-abs.o/        1562947219  1000  1000  100664  1240      `
+ELF>@@
+     UH▒▒}▒}▒x▒E▒▒▒E▒▒▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+T▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame!YY,0Y/5▒J▒E▒▒T▒▒                                                                    ▒▒▒      6-abs.c_abs 9-strcpy.o/     1562947219  1000  1000  100664  1320      `
+ELF>`@@
+      UH▒▒H▒}▒H▒u▒▒E▒▒7▒E▒Hc▒H▒E▒HЋU▒Hc▒H▒U▒H▒▒▒▒E▒Hc▒H▒E▒H▒▒▒▒t
+▒E▒▒}▒y▒▒▒H▒E▒]▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+VA▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame[!▒▒,0▒/5▒J▒T ▒                                                                      ▒▒▒
+[9-strcpy.c_strcpy _putchar.o/     1562947219  1000  1000  100664  1392      `
+ELF>0@@
+        UH▒▒H▒▒▒▒E▒H▒E▒H▒ƿ▒▒▒GCC: (Ubuntu 7.4.0-1ubuntu1~14.04~ppa1) 7.4.0zRx
+`A▒C
+.symtab.strtab.shstrtab.rela.text.data.bss.comment.note.GNU-stack.rela.eh_frame @%                                                                             &ee10e/:▒O▒JX                                                                   ▒Y0▒
+         ▒
+%_putchar.c_putcharwrite        ▒▒▒▒▒▒▒▒
