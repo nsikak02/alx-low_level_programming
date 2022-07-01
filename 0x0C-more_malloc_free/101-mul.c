@@ -112,12 +112,12 @@ if (j < 0)
 if (nout[0] != '0')
 break;
 lnout--;
-free(nout), nout = malloc(lnout + 1), nout = _initialize  _array(nout, lnout);
+free(nout), nout = malloc(lnout + 1), nout = _initialize_array(nout, lnout);
 k = lnout - 1, i = ln1 - 1, j = ln2 - 1, ca = addl = 0;
 }
 if (j >= 0)
 {
-add = ((argv[1][i] - '0') * (argv[2][j] - '0')) + (nout[  k] - '0') + addl;
+add = ((argv[1][i] - '0') * (argv[2][j] - '0')) + (nout[k] - '0') + addl;
 addl = add / 10, nout[k] = (add % 10) + '0';
 }
 }
